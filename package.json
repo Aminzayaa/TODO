@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "global": "^4.4.0",
+    "version": "^0.0.1",
+    "yarn": "^1.22.22"
+  },
+  "name": "TODOApp-master",
+  "version": "yarn add <package-name>",
+  "description": "c",
+  "main": "c",
+  "repository": "c",
+  "author": "c",
+  "license": "c",
+  "private": null
+}

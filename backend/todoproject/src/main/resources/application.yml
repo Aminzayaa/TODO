@@ -1,0 +1,10 @@
+#spring:
+#  datasource:
+#    username: root
+#    password: $@1Tanuj
+#    url: jdbc:hsqldb:mem:testdb;DB_CLOSE_DELAY=-1
+#  jpa:
+#    show-sql: true
+#    hibernate:
+#      ddl-auto: update
+##    properties.hibernate.dialect: org.hibernate.dialect.MySQL5Dialect
